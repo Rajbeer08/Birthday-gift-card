@@ -10,11 +10,11 @@ body {
 #birthday{
     
     border: 10px solid #EFB0C9;
-    border-radius: 100%;
+    border-radius: 40%;
     justify-content: space-around;
     display: block;
     margin: 0 auto;
-    width: 150px;
+    width: 200px;
 
 }
 
